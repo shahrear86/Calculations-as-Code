@@ -1,0 +1,1 @@
+The Codes contents are relavant with Mathematical economics and Econometrics. The studies of Aritmatics, Linear Algebra and Geometry from the school and college standard textbooks are helpfull to understand the codes with derivations.
